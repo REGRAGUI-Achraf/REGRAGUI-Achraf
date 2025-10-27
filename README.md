@@ -72,9 +72,13 @@
   <a href="https://www.linkedin.com/in/achraf-regragui/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Achraf%20REGRAGUI-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  
   <a href="https://github.com/REGRAGUI-Achraf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-REGRAGUI--Achraf-black?style=for-the-badge&logo=github" />
   </a>
+
+  
   <a href="mailto:achrafregragui01@gmail.com">
     <img src="https://img.shields.io/badge/Email-achrafregragui01%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
