@@ -54,7 +54,7 @@
 |------------|----------------|------------|
 | [**Libft**](https://github.com/REGRAGUI-Achraf/libft) | Recreate the standard C library | ✅ Completed |
 | [**ft_printf**](https://github.com/REGRAGUI-Achraf/ft_printf) | Custom implementation of printf | ✅ Completed |
-| [**get_next_line**](https://github.com/REGRAGUI-Achraf/Get_next_line) | Read files line by line | ✅ Completed |
+| [**get_next_line**](https://github.com/REGRAGUI-Achraf/Get_next-line) | Read files line by line | ✅ Completed |
 | [**push_swap**](https://github.com/REGRAGUI-Achraf/push_swap) | Sorting algorithm using stacks | ✅ Completed |
 | [**fract-ol**](https://github.com/REGRAGUI-Achraf/fract-ol) | Fractal rendering with MiniLibX | ✅ Completed |
 | [**Born2beroot**](https://github.com/REGRAGUI-Achraf/Born2beroot) | System administration & virtualization | ✅ Completed |
