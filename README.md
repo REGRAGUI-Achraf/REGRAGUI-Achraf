@@ -86,11 +86,6 @@
 
 ---
 
-### ⚡ Fun Fact
-> When my code compiles on the first try... I immediately double-check what went wrong 😅  
-
----
-
 ### 🧭 Quote
 > "Master the fundamentals, then innovate." — *Achraf REGRAGUI*
 
