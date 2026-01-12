@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  🎯 <strong>Current Level:</strong> 4.30 | 
+  🎯 <strong>Current Level:</strong> 4.65 | 
   <a href="https://profile.intra.42.fr/users/aregragu" target="_blank">
     <strong>View Intra Profile</strong>
   </a>
