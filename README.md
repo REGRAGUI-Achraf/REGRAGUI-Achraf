@@ -1,7 +1,7 @@
 <!-- 💻 Achraf REGRAGUI | GitHub Profile README -->
 
 <h1 align="center">👋 Hey, I'm <a href="https://www.linkedin.com/in/achraf-regragui/" target="_blank">Achraf REGRAGUI</a></h1>
-<h3 align="center">💻 1337/42 Student | Systems & Networks Enthusiast | C Developer</h3>
+<h3 align="center">💻 1337/42 Student | Systems & Networks Enthusiast | C C++ Developer</h3>
 
 ---
 
